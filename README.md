@@ -1,15 +1,5 @@
 ## スーパードラゴンボールヒーローズワールドミッション 自動バトル
 
-#### How to use
-1. このレポジトリを clone download する
-2. [lufa](https://github.com/abcminiuser/lufa/) を lufa フォルダに入れる
-3. avr-gcc avr-dude をインストール
-4. makefile 設定する
-5. make コマンド
-6. マイコンに書き込み （dfu-programmer など）
-7. ニンテンドースイッチとマイコンを繋げる
-8. Done
-
 #### Note
 注意
 稼ぎミッションを初めてプレイする時は、
