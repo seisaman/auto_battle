@@ -1,4 +1,4 @@
-# auto_battle
+## スーパードラゴンボールヒーローズワールドミッション 自動バトル
 
 #### How to use
 1. このレポジトリを clone download する
